@@ -1,0 +1,10 @@
+C:\Users\nicol\source\repos\outro-projeto-queue\outro-projeto-queue\bin\Debug\outro-projeto-queue.exe.config
+C:\Users\nicol\source\repos\outro-projeto-queue\outro-projeto-queue\bin\Debug\outro-projeto-queue.exe
+C:\Users\nicol\source\repos\outro-projeto-queue\outro-projeto-queue\bin\Debug\outro-projeto-queue.pdb
+C:\Users\nicol\source\repos\outro-projeto-queue\outro-projeto-queue\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\nicol\source\repos\outro-projeto-queue\outro-projeto-queue\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\nicol\source\repos\outro-projeto-queue\outro-projeto-queue\obj\Debug\outro-projeto-queue.csprojResolveAssemblyReference.cache
+C:\Users\nicol\source\repos\outro-projeto-queue\outro-projeto-queue\obj\Debug\outro-projeto-queue.csproj.CoreCompileInputs.cache
+C:\Users\nicol\source\repos\outro-projeto-queue\outro-projeto-queue\obj\Debug\outro-projeto-queue.csproj.CopyComplete
+C:\Users\nicol\source\repos\outro-projeto-queue\outro-projeto-queue\obj\Debug\outro-projeto-queue.exe
+C:\Users\nicol\source\repos\outro-projeto-queue\outro-projeto-queue\obj\Debug\outro-projeto-queue.pdb
